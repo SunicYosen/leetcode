@@ -18,3 +18,7 @@ Practice C++ with leetcode problems.
 ## [20210313](20210313)
 
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
+## [20210314](20210314)
+
+- [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
