@@ -22,3 +22,7 @@ Practice C++ with leetcode problems.
 ## [20210314](20210314)
 
 - [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+
+## [20210315](20210315)
+
+- [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
