@@ -26,3 +26,7 @@ Practice C++ with leetcode problems.
 ## [20210315](20210315)
 
 - [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+
+## [20210316](20210316)
+
+- [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
